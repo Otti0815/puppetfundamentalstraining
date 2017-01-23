@@ -1,9 +1,18 @@
 
+
+
+
 ## Ideen für Produktion bei TG
 /root/puppetcode/.git/hooks für puppet lint
 Foreman 
+https://www.gerritcodereview.com/
 
 
+##Befehle 
+
+puppet describe
+
+ 
 
 ## Bücher 
    gitbu.ch
@@ -14,4 +23,5 @@ https://github.com/drwahl/puppet-git-hooks
 https://github.com/magicmonty/bash-git-prompt
 https://github.com/jordansissel/fpm 
 
- 
+## Links 
+http://watzmann.net/blog/2014/06/puppet-autosign-policy.html 
