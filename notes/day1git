@@ -12,6 +12,7 @@ https://www.gerritcodereview.com/
 
 puppet describe
 
+enc und site pp clasification werden gemerged 
  
 
 ## Bücher 
@@ -26,3 +27,5 @@ https://github.com/ricciocri/vimrc
 https://github.com/puppetlabs/showoff
 ## Links 
 http://watzmann.net/blog/2014/06/puppet-autosign-policy.html 
+
+
