@@ -4,3 +4,8 @@ maximal 10 dateien
 maximal 100kb 
 
 https://github.com/binford2k/binford2k-node_encrypt
+https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd
+
+resource {'host':
+   purge =true, 
+   }
