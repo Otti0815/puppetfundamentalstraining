@@ -5,7 +5,9 @@ maximal 100kb
 
 https://github.com/binford2k/binford2k-node_encrypt
 https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd
+https://github.com/rodjek/librarian-puppet
 
+Vox Populi Ghostbuster
 resource {'host':
    purge =true, 
    }
