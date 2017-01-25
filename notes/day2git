@@ -12,3 +12,11 @@ http://de.slideshare.net/PuppetLabs
 source order 
 
 PFS Package File Service 
+
+dirtree 
+
+versioncmp
+## 
+maximal 3 verzeichnis ebenen 
+maximal 10 dateien 
+maximal 100kb 
